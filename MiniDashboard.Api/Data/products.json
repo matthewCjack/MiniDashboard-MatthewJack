@@ -1,0 +1,123 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Price": 1499.99,
+    "Brand": "Dell"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Price": 49.99,
+    "Brand": "Logitech"
+  },
+  {
+    "Id": 3,
+    "Name": "Laptop",
+    "Price": 1299.99,
+    "Brand": "HP"
+  },
+  {
+    "Id": 4,
+    "Name": "Keyboard",
+    "Price": 89.99,
+    "Brand": "Corsair"
+  },
+  {
+    "Id": 5,
+    "Name": "Monitor",
+    "Price": 299.99,
+    "Brand": "Samsung"
+  },
+  {
+    "Id": 6,
+    "Name": "Monitor",
+    "Price": 279.99,
+    "Brand": "LG"
+  },
+  {
+    "Id": 7,
+    "Name": "Headphones",
+    "Price": 199.99,
+    "Brand": "Sony"
+  },
+  {
+    "Id": 8,
+    "Name": "Headphones",
+    "Price": 149.99,
+    "Brand": "Bose"
+  },
+  {
+    "Id": 9,
+    "Name": "Webcam",
+    "Price": 89.99,
+    "Brand": "Logitech"
+  },
+  {
+    "Id": 10,
+    "Name": "Tablet",
+    "Price": 499.99,
+    "Brand": "Apple"
+  },
+  {
+    "Id": 11,
+    "Name": "Tablet",
+    "Price": 399.99,
+    "Brand": "Samsung"
+  },
+  {
+    "Id": 12,
+    "Name": "Smartphone",
+    "Price": 999.99,
+    "Brand": "Apple"
+  },
+  {
+    "Id": 13,
+    "Name": "Smartphone",
+    "Price": 899.99,
+    "Brand": "Samsung"
+  },
+  {
+    "Id": 14,
+    "Name": "Charger",
+    "Price": 29.99,
+    "Brand": "Anker"
+  },
+  {
+    "Id": 15,
+    "Name": "Charger",
+    "Price": 24.99,
+    "Brand": "Belkin"
+  },
+  {
+    "Id": 16,
+    "Name": "External HDD",
+    "Price": 129.99,
+    "Brand": "Seagate"
+  },
+  {
+    "Id": 17,
+    "Name": "External HDD",
+    "Price": 139.99,
+    "Brand": "Western Digital"
+  },
+  {
+    "Id": 18,
+    "Name": "Router",
+    "Price": 199.99,
+    "Brand": "Netgear"
+  },
+  {
+    "Id": 19,
+    "Name": "Router",
+    "Price": 179.99,
+    "Brand": "TP-Link"
+  },
+  {
+    "Id": 20,
+    "Name": "Mouse",
+    "Price": 59.99,
+    "Brand": "Razer"
+  }
+]
+

@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Rider IDE
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: if you have test coverage or local DB files
+*.coverage
+*.coveragexml
+TestResults/
+*.mdf
+*.ldf
+
+# Node modules if using any front-end projects
+node_modules/
+
+# Temporary files
+*.tmp
+*.log

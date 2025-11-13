@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\inttests\**" />
+    <Compile Remove="Data\old\**" />
+    <Content Remove="Data\inttests\**" />
+    <Content Remove="Data\old\**" />
+    <EmbeddedResource Remove="Data\inttests\**" />
+    <EmbeddedResource Remove="Data\old\**" />
+    <None Remove="Data\inttests\**" />
+    <None Remove="Data\old\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\BooksController.cs" />
+    <Compile Remove="Services\BookRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiniDashboard.Shared\MiniDashboard.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

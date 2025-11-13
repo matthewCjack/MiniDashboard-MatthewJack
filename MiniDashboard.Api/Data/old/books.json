@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Title": "The Silent Forest (Updated)",
+    "Author": "Anna Green",
+    "Year": 2018,
+    "Genre": "Mystery"
+  },
+  {
+    "Id": 2,
+    "Title": "Journey to Mars",
+    "Author": "Leo Carter",
+    "Year": 2020,
+    "Genre": "Science Fiction"
+  },
+  {
+    "Id": 3,
+    "Title": "Cooking with Love",
+    "Author": "Maria Lopez",
+    "Year": 2015,
+    "Genre": "Cooking"
+  },
+  {
+    "Id": 4,
+    "Title": "History of Art",
+    "Author": "James Smith",
+    "Year": 2012,
+    "Genre": "Non-Fiction"
+  },
+  {
+    "Id": 5,
+    "Title": "The Last Kingdom",
+    "Author": "Emily Clark",
+    "Year": 2019,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 6,
+    "Title": "Mindset Matters",
+    "Author": "Robert King",
+    "Year": 2017,
+    "Genre": "Self-Help"
+  },
+  {
+    "Id": 7,
+    "Title": "Ocean Deep",
+    "Author": "Sophie Turner",
+    "Year": 2021,
+    "Genre": "Adventure"
+  },
+  {
+    "Id": 8,
+    "Title": "The Lost Diary",
+    "Author": "Chris Evans",
+    "Year": 2016,
+    "Genre": "Drama"
+  },
+  {
+    "Id": 9,
+    "Title": "Wildlife Wonders",
+    "Author": "Patricia Lee",
+    "Year": 2014,
+    "Genre": "Nature"
+  },
+  {
+    "Id": 10,
+    "Title": "Code Complete",
+    "Author": "Steve McConnell",
+    "Year": 2004,
+    "Genre": "Programming"
+  },
+  {
+    "Id": 11,
+    "Title": "New Book",
+    "Author": "Unknown",
+    "Year": 0,
+    "Genre": ""
+  },
+  {
+    "Id": 12,
+    "Title": "New Book",
+    "Author": "Unknown",
+    "Year": 0,
+    "Genre": ""
+  }
+]

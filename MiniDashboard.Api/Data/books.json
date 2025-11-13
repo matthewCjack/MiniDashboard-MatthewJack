@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 1,
+    "Title": "A Game of Thrones",
+    "Author": "George R. R. Martin",
+    "Year": 1996,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 2,
+    "Title": "A Clash of Kings",
+    "Author": "George R. R. Martin",
+    "Year": 1998,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 3,
+    "Title": "A Storm of Swords",
+    "Author": "George R. R. Martin",
+    "Year": 2000,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 4,
+    "Title": "A Feast for Crows",
+    "Author": "George R. R. Martin",
+    "Year": 2005,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 5,
+    "Title": "A Dance with Dragons",
+    "Author": "George R. R. Martin",
+    "Year": 2011,
+    "Genre": "Fantasy"
+  },
+  {
+    "Id": 6,
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Year": 2008,
+    "Genre": "Dystopian"
+  },
+  {
+    "Id": 7,
+    "Title": "Catching Fire",
+    "Author": "Suzanne Collins",
+    "Year": 2009,
+    "Genre": "Dystopian"
+  },
+  {
+    "Id": 8,
+    "Title": "Mockingjay",
+    "Author": "Suzanne Collins",
+    "Year": 2010,
+    "Genre": "Dystopian"
+  },
+  {
+    "Id": 9,
+    "Title": "The Ballad of Songbirds \u0026 Snakes",
+    "Author": "Suzanne Collins",
+    "Year": 2020,
+    "Genre": "Dystopian"
+  },
+  {
+    "Id": 10,
+    "Title": "Watermelon",
+    "Author": "Marian Keyes",
+    "Year": 1995,
+    "Genre": "Romantic Comedy"
+  },
+  {
+    "Id": 11,
+    "Title": "Lucy Sullivan Is Getting Married",
+    "Author": "Marian Keyes",
+    "Year": 1996,
+    "Genre": "Romantic Comedy"
+  },
+  {
+    "Id": 12,
+    "Title": "Rachel\u2019s Holiday",
+    "Author": "Marian Keyes",
+    "Year": 1997,
+    "Genre": "Romantic Comedy"
+  },
+  {
+    "Id": 13,
+    "Title": "Angels",
+    "Author": "Marian Keyes",
+    "Year": 2002,
+    "Genre": "Romantic Comedy"
+  },
+  {
+    "Id": 14,
+    "Title": "Anybody Out There?",
+    "Author": "Marian Keyes",
+    "Year": 2006,
+    "Genre": "Romantic Comedy"
+  },
+  {
+    "Id": 15,
+    "Title": "The Famous Five: Five on a Treasure Island",
+    "Author": "Enid Blyton",
+    "Year": 1942,
+    "Genre": "Adventure"
+  },
+  {
+    "Id": 16,
+    "Title": "The Famous Five: Five Go Adventuring Again",
+    "Author": "Enid Blyton",
+    "Year": 1943,
+    "Genre": "Adventure"
+  },
+  {
+    "Id": 17,
+    "Title": "The Famous Five: Five Run Away Together",
+    "Author": "Enid Blyton",
+    "Year": 1944,
+    "Genre": "Adventure"
+  },
+  {
+    "Id": 18,
+    "Title": "The Secret Seven: The Secret Seven",
+    "Author": "Enid Blyton",
+    "Year": 1949,
+    "Genre": "Mystery"
+  },
+  {
+    "Id": 19,
+    "Title": "The Secret Seven: Secret Seven Adventure",
+    "Author": "Enid Blyton",
+    "Year": 1950,
+    "Genre": "Mystery"
+  },
+  {
+    "Id": 20,
+    "Title": "Noddy: Noddy Goes to Toyland",
+    "Author": "Enid Blyton",
+    "Year": 1949,
+    "Genre": "Children\u0027s"
+  }
+]
