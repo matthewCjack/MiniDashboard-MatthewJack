@@ -28,6 +28,7 @@ It allows users to load, view, edit, and search dynamic JSON-based datasets thro
 
 ## 📁 Project Structure
 
+```text
 MiniDashboard.sln
 |
 ├── MiniDashboard.Api
@@ -61,7 +62,7 @@ MiniDashboard.sln
 │   └── DataControllerIntegrationTests.cs
 |
 └── README.md
-
+```
 ---
 
 ## 🧰 Technologies Used
