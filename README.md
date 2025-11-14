@@ -28,30 +28,39 @@ It allows users to load, view, edit, and search dynamic JSON-based datasets thro
 
 ## 📁 Project Structure
 
-MiniDashboard/
-│
-├── MiniDashboard.App/ # WPF desktop client
-│ ├── ViewModels/ # MVVM viewmodels
-│ ├── Views/ # XAML UI definitions
-│ ├── Services/ # API interaction layer
-│ └── App.xaml / MainWindow.xaml
-│
-├── MiniDashboard.Api/ # ASP.NET Core Web API
-│ ├── Controllers/ # DataController.cs
-│ ├── Services/ # (optional) logic layers
-│ ├── Data/ # JSON dataset folder
-│ └── Program.cs / appsettings.json
-│
-├── MiniDashboard.Shared/ # Shared models and contracts
-│
-├── MiniDashboard.App.Tests/ # Unit tests (ViewModel, logic)
-│
-├── MiniDashboard.Api.IntegrationTests/# Integration tests for API
-│ ├── CustomWebApplicationFactory.cs
-│ └── DataControllerTests.cs
-│
-└── README.md # This file
-
+MiniDashboard.sln
+|
+├── MiniDashboard.Api
+│   ├── Controllers
+│   │   └── DataController.cs
+│   ├── Program.cs
+│   ├── appsettings.json
+│   └── MiniDashboard.Api.csproj
+|
+├── MiniDashboard.App
+│   ├── ViewModels
+│   │   ├── ItemsViewModel.cs
+│   │   ├── DynamicItem.cs
+│   │   └── RelayCommand.cs
+│   ├── Services
+│   │   └── DataApiService.cs
+│   ├── Views
+│   │   └── MainWindow.xaml
+│   ├── App.xaml
+│   └── MiniDashboard.App.csproj
+|
+├── MiniDashboard.Tests
+│   ├── ViewModels
+│   │   └── ItemsViewModelTests.cs
+│   ├── Services
+│   │   └── DataApiServiceTests.cs
+│   └── MiniDashboard.Tests.csproj
+|
+├── MiniDashboard.Api.IntegrationTests
+│   ├── CustomWebApplicationFactory.cs
+│   └── DataControllerIntegrationTests.cs
+|
+└── README.md
 
 ---
 
